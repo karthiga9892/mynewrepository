@@ -1,0 +1,20 @@
+{
+    "name": "obs/validpackage",
+    "description": "Validation of email dns server",
+    "type": "library",
+    "license": "karthiga",
+    "authors": [
+        {
+            "name": "karthiga.s",
+            "email": "karthiga.s@optisolbusiness.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Obs\\Validpackage\\": "src/"
+        }
+    },
+    "require": {}
+}
+
